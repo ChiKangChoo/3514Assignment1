@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 name: Chi Kang Choo
-role: Student
+
+  
